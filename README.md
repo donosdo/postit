@@ -3,31 +3,52 @@ This way one person can post notifications to everyone by sending a message once
 allows people create accounts, create groups and add registered users to the groups, and then send 
 messages out to these groups whenever they want.
 
+
 METHODS:
 
 User:
+
     Create a User
+    
     Parameters:
+    
     username
+    
     email
+    
     password
+    
 
 User Login:
+
     Parameters
+    
     username
+    
     password
+    
 
 Groups:
+
     Create Group
+    
     Parameters:
+    
     group name
+    
     group description 
+    
 
 DEPENDENCIES:
+
 Node.js
+
 Express Js
+
 Postman
+
 Firebase
+
 
 
 
